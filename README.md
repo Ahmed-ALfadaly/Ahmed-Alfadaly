@@ -21,6 +21,10 @@
 
 - ⚡ Fun fact **WINTER IS COMING**
 
+<h1 align="center">take a Look at My leetcode page ⚡⚡⚡</h1>
+<h3 align="center">Solving problems with JS</h3>
+<img align="center" alt="coding" width="1100" height="200" src="https://github.com/Ahmed-ALfadaly/Ahmed-Alfadaly/blob/main/Leetcode.png">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-alfadaly/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-alfadaly/" height="30" width="40" /></a>
@@ -28,7 +32,7 @@
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/ahmedalfm42x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/ahmedalfm42x/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">**Languages and Tools:**</h3>
 <p align="left"> 
 <div>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
